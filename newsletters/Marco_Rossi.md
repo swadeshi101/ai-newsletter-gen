@@ -1,271 +1,435 @@
-# Personalized Newsletter for Alex Parker
+# Personalized Newsletter for Marco Rossi
 
 ## Top Highlights
-- **Commercial services platform BuildOps becomes a unicorn, raises $127M**: commercial service platform buildops becomes unicorn
-- **Meta has revenue sharing agreements with Llama AI model hosts, filing reveals**: meta revenue sharing agreement llama ai model host filing reveals blog post
-- **DeepSeek: Everything you need to know about the AI chatbot app**: chinese ai lab deepseek broke mainstream consciousness week afterits chatbot app rose top apple app store chart google play well deepseeks ai model trained using computeefficient techniqueshave led wall street analystsand technologist
+- **Wales indiscipline let Scotland into the game - pundit reaction**: bbc sport pundit reaction to scotland womens six nation game
+- **Johnson returns, stars in LSU's 55-point victory**: lsu star flaujae johnson returns from injury to score point against san diego state
+- **'He's gone and done it again!' - Ingebrigtsen wins first indoor world title**: norway 's jakob ingebrigtsen overtakes ethiopia 's berihu aregawi to win first indoor world title
 
 ---
 
-## Tech
-### Jonah Peretti helped shaped digital media — can he do it again?
-jonah peretti helped shaped digital medium
-[Read more](https://techcrunch.com/2025/03/22/jonah-peretti-helped-shaped-digital-media-can-he-do-it-again/)
-
-### Charlie Javice trial becomes a master class in hubris for both sides
-charlie javices highprofile fraud trial become showcase
-[Read more](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/)
-
-### Week in Review: Google buys Wiz
-week review google buy wiz welcome back week review we've got ton story share week like greatest hit nvidia gtc rippling lawsuit rippling lawsuit google bought wiz let get google finally google made biggest acquisition history week
-[Read more](https://techcrunch.com/2025/03/22/week-in-review-google-buys-wiz/)
-
-### The 20 hottest open source startups of 2024
-hottest open source startup new report showcase toptrending open source startup around world
-[Read more](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/)
-
-### Meta settles UK ‘right to object to ad-tracking’ lawsuit by agreeing not to track plaintiff
-meta settles uk right object adtracking lawsuit agreeing to track plaintiff tanya ocarroll
-[Read more](https://techcrunch.com/2025/03/21/meta-settles-u-k-right-to-object-to-ad-tracking-lawsuit-by-agreeing-not-to-track-plaintiff/)
-
-### Anduril might build a weapons factory in the UK
-anduril , a u.s. defense contractor , may build a weapon factory in london .
-[Read more](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/)
-
-### Meta has revenue sharing agreements with Llama AI model hosts, filing reveals
-meta revenue sharing agreement llama ai model host filing reveals blog post
-[Read more](https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/)
-
-### How BYD plans to make EV charging as fast as filling a gas tank
-byd 's plan to make ev charging fast filling gas tank found mostly support
-[Read more](https://techcrunch.com/2025/03/21/how-byd-plans-to-make-ev-charging-as-fast-as-filling-a-gas-tank/)
-
-### Valve removes video game demo suspected of being malware
-valve removed video game called sniper phantom resolution after user reported free demo contained malware
-[Read more](https://techcrunch.com/2025/03/21/valve-removes-video-game-demo-suspected-of-being-malware/)
-
-### DeepSeek: Everything you need to know about the AI chatbot app
-chinese ai lab deepseek broke mainstream consciousness week afterits chatbot app rose top apple app store chart google play well deepseeks ai model trained using computeefficient techniqueshave led wall street analystsand technologist
-[Read more](https://techcrunch.com/2025/03/21/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-
-### TechCrunch has, yes, personal news!
-havent heard news techcrunch shiny new home ownership yahoo turn backed apollo group brand fresh hand new parent company regent dynamic private equity firm
-[Read more](https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/)
-
-### Anthropic appears to be using Brave to power web search for its Claude chatbot
-anthropic appears using brave power web search claude chatbot
-[Read more](https://techcrunch.com/2025/03/21/anthropic-appears-to-be-using-brave-to-power-web-searches-for-its-claude-chatbot/)
-
-### Startups Weekly: Wiz’s bet paid off in an M&A-rich week
-startup weekly wiz bet paid marich week welcome startup weekly weekly recap everything cant miss world startup want inbox every friday sign rare report figure startup acquisition
-[Read more](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/)
-
-### TechCrunch Mobility: Inside Waymo’s deal with SFO, Elon’s moment of truth, and BYD’s breakthrough
-techcrunch mobility inside waymos deal elons moment truth byds breakthrough welcome back
-[Read more](https://techcrunch.com/2025/03/21/techcrunch-mobility-inside-waymos-deal-with-sfo-elons-moment-of-truth-and-byds-breakthrough/)
-
-### ChatGPT: Everything you need to know about the AI-powered chatbot
-chatgpt everything need know aipowered chatbot chatgpt openais textgenerating ai chatbot taken world storm since launch november started tool supercharge productivity writing essay code short text prompt evolved behemoth
-[Read more](https://techcrunch.com/2025/03/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
-
-### Wayve CEO shares his key  ingredients for scaling autonomous driving tech
-wayve ceo alex kendall shares key ingredient scaling autonomous driving tech
-[Read more](https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/)
-
-### Microsoft is exploring a way to credit contributors to AI training data
-microsoft exploring way credit contributor ai training data microsoft launching research project estimate influence specific training
-[Read more](https://techcrunch.com/2025/03/21/microsoft-is-exploring-a-way-to-credit-contributors-to-ai-training-data/)
-
-### Meta spotted testing AI-generated comments on Instagram
-meta spotted testing aigenerated comment instagram
-[Read more](https://techcrunch.com/2025/03/21/meta-spotted-testing-ai-generated-comments-on-instagram/)
-
-### 1X will test humanoid robots in ‘a few hundred’ homes in 2025
-norwegian robotics startup x plan start early test humanoid robot neo gamma hundred thousand home end according company ceo
-[Read more](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/)
-
-### Commercial services platform BuildOps becomes a unicorn, raises $127M
-commercial service platform buildops becomes unicorn
-[Read more](https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/)
-
-### 24 Best Wireless Chargers (2025), Tested and Reviewed
-find the best wireless charger for your phone
-[Read more](https://www.wired.com/gallery/best-wireless-chargers/)
-
-### The 6 Best OLED TVs (2025)
-buy the best oled tv
-[Read more](https://www.wired.com/gallery/best-oleds/)
-
-### 13 Best Hair Straighteners We Tested (2025) | WIRED
-Find the best hair straightener for your hair type.
-[Read more](https://www.wired.com/gallery/best-hair-straighteners/)
-
-### The Art of the Perfect Nap
-take a nap
-[Read more](https://www.wired.com/story/the-art-of-the-perfect-nap-sleep-science/)
-
-### A Mysterious Startup Is Developing a New Form of Solar Geoengineering
-mysterious startup developing new form solar geoengineering stardust israelius
-[Read more](https://www.wired.com/story/a-mysterious-startup-is-developing-a-new-form-of-solar-geoengineering/)
-
-### The 43 Best Movies on Netflix Right Now (March 2025)
-watch the best movies on netflix
-[Read more](https://www.wired.com/story/netflix-best-movies-this-week/)
+## Sports
+### From 1 to 32: Ranking every team left in womenï¿½s March Madness
+every team left womens march madness seed got passed uconn ucla south carolina
+[Read more](https://www.espn.com/womens-college-basketball/story/_/id/44358893/womens-march-madness-2025-ranking-ncaa-tournament-teams-second-round)
+
+### 'Legend' Calipari leads Razorbacks into Sweet 16
+legend calipari leads razorback past nemesis rick pitino
+[Read more](https://www.espn.com/mens-college-basketball/story/_/id/44361802/calipari-guides-arkansas-pitino-st-john-sweet-16)
+
+### Pitino defends benching Luis in loss to Arkansas
+st. john coach rick pitino defended benching star rj luis jr in final saturday loss to arkansas
+[Read more](https://www.espn.com/mens-college-basketball/story/_/id/44363533/rick-pitino-defends-benching-rj-luis-jr-loss-arkansas)
+
+### With LeBron back, Lakers lose, eye strong finish
+los angeles post blowout loss to chicago bulls
+[Read more](https://www.espn.com/nba/story/_/id/44364586/lakers-healthy-again-lebron-james-returns-vs-bulls)
+
+### Piastri wins Chinese GP, leads McLaren 1-2 finish
+oscar piastri beat teammate lando norris to win chinese grand prix
+[Read more](https://www.espn.com/f1/story/_/id/44315881/oscar-piastri-wins-dominant-mclaren-claim-one-two)
+
+### Johnson returns, stars in LSU's 55-point victory
+lsu star flaujae johnson returns from injury to score point against san diego state
+[Read more](https://www.espn.com/womens-college-basketball/story/_/id/44366755/flaujae-johnson-returns-leads-lsu-tigers-convincing-win)
+
+### No. 1 Auburn shakes off slow start, doubts in win
+top-seeded auburn shook off a slow start to beat top-seeded creighton
+[Read more](https://www.espn.com/nfl/story/_/id/44365714/auburn-shakes-slow-start-beat-creighton-advance)
+
+### Hendrickson stuns Steveson to win wrestling title
+oklahoma state wrestler wyatt hendrickson stuns steveson to win wrestling title
+[Read more](https://www.espn.com/college-sports/story/_/id/44365843/ncaa-wrestling-penn-st-wins-again-hendrickson-stuns-steveson)
+
+### Butler shrugs off Miami return: Just 'another game'
+jimmy butler called return miami another game shrugging notion extra emotion tied matchup
+[Read more](https://www.espn.com/nba/story/_/id/44365896/jimmy-butler-shrugs-miami-return-just-another-game)
+
+### Your guide to men's March Madness second round: Results, analysis, keys to Sweet 16
+guide men march madness second round result analysis key sweet whether watched part none
+[Read more](https://www.espn.com/mens-college-basketball/story/_/id/44351042/mens-march-madness-round-2-men-ncaa-tournament-guide)
+
+### NHL playoff watch: What's at stake in all 14 games on Showdown Saturday
+nhl playoff watch whats stake game showdown saturday here watch every matchup plus full playoff projection draft lottery standing
+[Read more](https://www.espn.com/nhl/story/_/id/44347184/nhl-playoffs-bracket-standings-2025-wild-card-bracket-games-matchups)
+
+### 'An out in three pitches': What the rest of MLB can learn from the Royals' old-school rotation
+three pitch rest mlb learn royal oldschool rotation five guy making quality start day
+[Read more](https://www.espn.com/mlb/story/_/id/44304347/mlb-2025-starting-pitching-kansas-city-royals-managing-rotation)
+
+### George Foreman beat time by going from humiliation to vindication
+george foreman beat time going humiliation vindication
+[Read more](https://www.espn.com/boxing/story/_/id/44358937/george-foreman-beat-going-boxing-humiliation-vindication)
+
+### Yes, USMNT fans: It's time to worry about the 2026 World Cup
+usmnt fan time worry world cup u national team coach
+[Read more](https://www.espn.com/soccer/story/_/id/44348006/united-states-usmnt-fans-worry-2026-world-cup)
+
+### USMNT loses to Panama again in worst performance of Pochettino era
+usmnt loses panama worst performance
+[Read more](https://www.espn.com/soccer/story/_/id/44335813/usmnt-lose-panama-analysis-reaction-concacaf-nations-league-pochettino-pulisic)
+
+### Poch: USMNT faces test of 'character' vs. Canada
+usmnt face test character v canada
+[Read more](https://www.espn.com/soccer/story/_/id/44360057/pochettino-usa-character-canada-concacaf-nations-league)
+
+### Ronaldo: 'No problem' with Hï¿½jlund's 'Siu' celeb
+ronaldo says hjlunds siu celebration is a  problem ''
+[Read more](https://www.espn.com/soccer/story/_/id/44360847/cristiano-ronaldo-no-problem-rasmus-hojlund-siu-celebration)
+
+### Ex-France star Ribery: Leg was nearly amputated
+former bayern munich winger franck ribery revealed almost leg amputated towards end career surgery knee
+[Read more](https://www.espn.com/soccer/story/_/id/44356554/franck-ribery-ex-france-star-says-leg-was-nearly-amputated)
+
+### Wrexham boost promotion hopes with 1-0 win
+wrexham moved second in the league one table with a win over mansfield town
+[Read more](https://www.espn.com/soccer/report/_/gameId/708630)
+
+### Haaland scores in 5-0 Norway rout to start WCQ
+erling haaland scores norway rout moldova in wcq
+[Read more](https://www.espn.com/soccer/report/_/gameId/724930)
+
+### Scaloni on Argentina win: No Messi? No problem
+scaloni says argentina 's win over uruguay showed depth
+[Read more](https://www.espn.com/soccer/story/_/id/44356831/no-lionel-messi-no-problem-says-argentina-boss-win)
+
+### Rice hails Lewis-Skelly: Fearless, hungry, asset
+myles lewisskelly hails england teammate declan rice as  fearless '' and  hungry '' asset
+[Read more](https://www.espn.com/soccer/story/_/id/44356741/england-declan-rice-hails-fearless-myles-lewis-skelly)
+
+### Leon kicked out of Club World Cup by FIFA
+fifa confirms club leon kicked out of club world cup
+[Read more](https://www.espn.com/soccer/story/_/id/44343954/club-world-cup-fifa-rules-leon-clears-pachuca)
+
+### It wasn't his behavior, but this Stanford program belongs to Andrew Luck
+stanford coach troy taylor has been criticized for not being a good coach.
+[Read more](https://www.espn.com/college-football/story/_/id/44347700/bad-behavior-stanford-coach-taylor-andrew-luck-program)
+
+### Men's championship odds: Duke, Florida clear co-favorites
+duke florida clear cofavorites blue devil gator remain favorite to win championship
+[Read more](https://www.espn.com/espn/betting/story/_/id/42215337/ncaa-college-basketball-march-madness-mens-odds)
+
+### NCAA title test: Which women's icons got it done -- and is Paige Bueckers next?
+ncaa women 's basketball champion paige bueckers is next in line for a national championship .
+[Read more](https://www.espn.com/womens-college-basketball/story/_/id/44347220/womens-college-basketball-legends-ncaa-tournament-title-history)
 
-### BYD's 5-Minute EV Charging Sounds Great. But How Useful Is it?
-byds minute ev charging sound great useful fast charging viable expert say
-[Read more](https://www.wired.com/story/byd-5-minute-ev-charging/)
+### Mount St. Mary's HC Donny Lind and son reflect on tourney run
+mount st mary head coach donny lind gave heartfelt reflection on tourney run
+[Read more](https://www.espn.com/mens-college-basketball/story/_/id/44349156/mount-st-marys-mountaineers-donny-lind-silas-emotional-ncaa-march-madness)
 
-### The 44 Best Shows on Netflix Right Now (March 2025)
-list the best shows to watch on netflix right now
-[Read more](https://www.wired.com/story/netflix-best-shows-this-week/)
+### Transfer rumors, news: Liverpool, Bayern favorites to sign Cherki
+transfer rumor news liverpool bayern favorite sign cherki rayan cherki look set leave lyon summer liverpool bayern
+[Read more](https://www.espn.com/soccer/story/_/id/44363132/transfer-rumors-news-liverpool-bayern-favorites-sign-cherki)
 
-### The FBI Is Investigating Attacks on Tesla as ‘Domestic Terrorism.’ Here’s Why That Matters
-fbi investigating attack on tesla ; domestic terrorism designation could give law enforcement sweeping authority
-[Read more](https://www.wired.com/story/fbi-tesla-arson-domestic-terrorism-protests/)
+### Piastri dominates Chinese GP as McLaren takes 50th 1-2
+oscar piastri led mclarens th onetwo finish ahead teammate lando norris in chinese grand prix
+[Read more](https://racer.com/2025/03/23/piastri-dominates-chinese-gp-as-mclaren-takes-50th-1-2/)
 
-### Verizon Satellite Messaging, a Retro Console, and Velotric's Ebike—Here’s Your Gear News of the Week
-verizon satellite messaging retro console velotrics ebikeheres gear news week
-[Read more](https://www.wired.com/story/verizon-brings-free-satellite-messaging-to-select-android-phones/)
+### Russell ï¿½buzzingï¿½ after splitting McLarens but staying realistic
+british driver george russell 's hopes of qualifying for the chinese grand prix have been dashed by a crash in the second qualifying session .
+[Read more](https://racer.com/2025/03/22/russell-buzzing-after-splitting-mclarens-but-staying-realistic/)
 
-### Hungryroot Meal Kit Review (2025): AI-Guided Menu
-aiguided menu hungryroot shockingly innovative meal kit though result like fastcasual meal assembly cooking
-[Read more](https://www.wired.com/review/hungryroot-meal-kit-review/)
+### Piastriï¿½s pole-winning milestone comes at the right time
+piastris pole-winning milestone comes right time for chinese grand prix weekend
+[Read more](https://racer.com/2025/03/22/piastris-pole-winning-milestone-comes-at-the-right-time/)
 
-### 14 Best USB Flash Drives (2025): Pen Drives, Thumb Drives, Memory Sticks
-buy the best usb flash drive pen drive thumb drive memory stick
-[Read more](https://www.wired.com/gallery/best-usb-flash-drives/)
+### Piastri roars to maiden pole in Shanghai
+shanghai oscar piastri scored first formula grand prix pole position dominating qualifying chinese grand prix
+[Read more](https://racer.com/2025/03/22/piastri-roars-to-maiden-pole-in-shanghai/)
 
-### Dell UltraSharp 32 4K Thunderbolt Hub Monitor Review: Best IPS Panel
-dell ultrasharp k thunderbolt hub monitor review
-[Read more](https://www.wired.com/review/dell-ultrasharp-32-4k-thunderbolt-hub-monitor/)
+### Hamilton relishes silencing critics with Sprint win
+hamilton relish silencing critic sprint win lewis hamilton say number
+[Read more](https://racer.com/2025/03/22/hamilton-silences-critics-with-maiden-sprint-win-but-isnt-getting-carried-away/)
 
-### Yahoo Is Still Here—and It Has Big Plans for AI
-yahoo still hereand big plan ai even yahoo turn ceo jim lanzone say company still building mode
-[Read more](https://www.wired.com/story/plaintext-yahoo-turns-30-jim-lanzone/)
+### Hamilton gets first Ferrari win in Shanghai sprint
+lewis hamilton claimed first ferrari win in shanghai sprint
+[Read more](https://racer.com/2025/03/22/hamilton-gets-first-ferrari-win-in-shanghai-sprint/)
 
-### HoverAir X1 ProMax Review: A Great but Expensive Selfie Drone
-hoverair x promax review great expensive selfie drone
-[Read more](https://www.wired.com/review/review-hoverair-x1-promax/)
+### Hamilton flips the script again
+hamilton flip script writing script new formula season
+[Read more](https://racer.com/2025/03/21/hamilton-flips-the-script-again/)
 
-### Ford Bronco Electric Bike Review: Car Makers Now Make Electric Bikes
-ford bronco electric bike review
-[Read more](https://www.wired.com/review/ford-bronco-electric-bike/)
+### McLaren ï¿½just too difficult of a car to driveï¿½ in China - Norris
+china 's mclaren and norris say mclaren 's difficult car drive secures front row sprint qualifying for chinese grand prix
+[Read more](https://racer.com/2025/03/21/mclaren-just-too-difficult-of-a-car-to-drive-in-china-norris/)
 
-### Elon Musk and Donald Trump Have Chosen Chaos
-elon musk and donald trump have chosen chaos .
-[Read more](https://www.wired.com/story/elon-musk-donald-trump-chaos/)
+### Verstappen buoyant as Red Bull ï¿½shouldnï¿½t be on the front rowï¿½
+verstappen buoyant red bull should be front row at chinese grand prix
+[Read more](https://racer.com/2025/03/21/verstappen-buoyant-as-red-bull-shouldnt-be-on-the-front-row/)
 
-### High Thread Count Doesn’t Really Matter (2025)
-Choose a bedsheet with a high thread count.
-[Read more](https://www.wired.com/story/why-a-higher-thread-count-isnt-always-better/)
+### Piastri leads Norris to McLaren one-two in China
+oscar piastri leads lando norris leads mclaren onetwo
+[Read more](https://www.bbc.com/sport/formula1/articles/c2d4wee699do)
 
-### How to Avoid US-Based Digital Services—and Why You Might Want To
-people starting to move digital life service based overseas here need know
-[Read more](https://www.wired.com/story/trump-era-digital-expat/)
+### Injured Gordon withdraws from England squad
+anthony gordon withdraws from england squad for world cup qualifier against latvia
+[Read more](https://www.bbc.com/sport/football/articles/cwyez67zpl0o)
 
-### Inside Google’s Two-Year Frenzy to Catch Up With OpenAI
-google 's two-year frenzy over openai was n't punched back late night layoffsand lowering guardrail
-[Read more](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
+### No problem with Hojlund mimicking celebration - Ronaldo
+denmark striker rasmus hojlund copying celebration of ronaldo says problem
+[Read more](https://www.bbc.com/sport/football/articles/cz03z1v95e4o)
 
-### ‘We Don’t Want an AI Demo, We Want Answers’: Federal Workers Grill Trump Appointee During All-Hands
-don t want ai demo want answer federal worker grill trump appointee
-[Read more](https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/)
+### Brady upsets Edwards with dominant display
+sean brady upset leon edward in welterweight contest at ufc london
+[Read more](https://www.bbc.com/sport/mixed-martial-arts/articles/cwyd45wnnkpo)
 
-### The Trump Administration Wants USAID on the Blockchain
-u.s. officials want a memo detailing a plan to use blockchain technology to track aid flows , but experts say it 's a  fake technological solution .
-[Read more](https://www.wired.com/story/trump-administration-usaid-blockchain/)
+### Lakers well beaten by Bulls on James return
+los angeles lakers side boosted by return of lebron james
+[Read more](https://www.bbc.com/sport/basketball/articles/c15q8qyv1kyo)
 
-### The 33 Best Movies on Max (aka HBO Max) Right Now (March 2025)
-best movie max aka hbo
-[Read more](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+### England begin bid for legacy-defining year
+england begin bid for legacy ; italy start women 's six nation title defence
+[Read more](https://www.bbc.com/sport/rugby-union/articles/cn8rng8g8ppo)
 
-### Who's Elon Musk’s Biggest Fan? His Mom
-who is elon musk biggest fan?
-[Read more](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-mom-maye-musk/)
+### Scotland triumph in thriller against Wales
+scotland triumph thriller wale scotland kickstart womens six nation campaign tense victory
+[Read more](https://www.bbc.com/sport/rugby-union/videos/cq8y1w94dzwo)
 
-### DOGE Is Doing the Opposite of Government Auditing
-doge opposite government auditing special episode
-[Read more](https://www.wired.com/story/uncanny-valley-podcast-doge-government-auditing/)
+### Draper shocked by Mensik in Miami Open second round
+british number one jack draper loses straight set to jakub mensik in second round of miami open
+[Read more](https://www.bbc.com/sport/tennis/articles/c1lp13d2gnno)
 
-### Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue
-nearly cybertrucks recalled by tesla for using wrong adhesive
-[Read more](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/)
+### Trump beats Higgins to set up Wilson final
+trump beat higgins to set up wilson final against judd trump and kyren wilson
+[Read more](https://www.bbc.com/sport/snooker/articles/cy4lzyxj1n3o)
 
-### A Livestreamed Tragedy on X Sparks a Memecoin Frenzy
-livestreamed tragedy x spark memecoin frenzy young man broadcast death x profithungry trader piled cryptocurrency created image
-[Read more](https://www.wired.com/story/livestreamed-tragedy-x-memecoin-frenzy/)
+### Knight sacking leaves 'enormous shoes to fill' - who may England turn to?
+england captain heather knight sacked
+[Read more](https://www.bbc.com/sport/cricket/articles/c4g0jvwp32yo)
 
-### The Best Hearing Aids of 2025, Tested and Reviewed
-buy the best hearing aid
-[Read more](https://www.wired.com/gallery/best-hearing-aids/)
+### Highlights: Wales beat Kazakhstan 3-1 in Cardiff
+wale beat kazakhstan cardiff get world cup qualifying campaign
+[Read more](https://www.bbc.com/sport/football/videos/ceqj8l8w5e8o)
 
-### Speediance Gym Monster 2 Review: All-in-One Workout Machine
-speediance gym monster review
-[Read more](https://www.wired.com/review/speediance-gym-monster-2/)
+### Anning wins GB's first women's 400m world indoor title
+great britain narrowly beats usa at world indoor athletics championship
+[Read more](https://www.bbc.com/sport/athletics/videos/c7vzyq979zvo)
 
-### Best Portable Chargers (2025): iPhones, iPads, Laptops & More
-best portable charger for iphones ipads laptop
-[Read more](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+### France survive red card to beat Ireland in Six Nations opener
+france survived red card to beat ireland six nation opener
+[Read more](https://www.bbc.com/sport/rugby-union/videos/cp3y0g5ldnlo)
 
-### 13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed
-best magsafe power bank iphones tested reviewed keep iphone
-[Read more](https://www.wired.com/gallery/best-magsafe-power-banks/)
+### 'It means a lot!' - emotional Hunt reacts to fifth place finish in 60m final
+mean lot emotional hunt reacts to fifth place finish in women 's final world indoor athletics championship
+[Read more](https://www.bbc.com/sport/athletics/videos/c39vee24n48o)
 
-### The Best Smart Rings, Tested and Reviewed (2025)
-best smart ring tested reviewed
-[Read more](https://www.wired.com/gallery/best-smart-rings/)
+### Matondo scores first Wales goal in Kazakhstan win
+rabbi matondo scores first wale goal for kazakhstan
+[Read more](https://www.bbc.com/sport/football/videos/c0rzewjg8n7o)
 
-### Is That Painting a Lost Masterpiece or a Fraud? Let’s Ask AI
-a jury ruled friday that a painting by van gogh , one of the world 's most famous artists , was lost to fraud .
-[Read more](https://www.wired.com/story/is-that-painting-a-lost-masterpiece-or-a-fraud-lets-ask-ai/)
+### Forest to revive Luiz interest - Sunday's gossip
+bournemouth hope make kepa arrizabalagas loan permanent
+[Read more](https://www.bbc.com/sport/football/articles/cy87ee6z73jo)
 
-### 7 Best WIRED-Tested Humidifiers for Home and Away (2025)
-pick the best humidifier for your home
-[Read more](https://www.wired.com/gallery/the-best-humidifiers/)
+### Clarke on Scotland tactics against Greece, Christie, Hirst & Karetsas
+bbc scotland's ryan christie and scotland's christie hirst talk tactic bbc scotland's clarke talk tactic
+[Read more](https://www.bbc.com/sport/football/articles/cdxq56pwkzvo)
 
-### Satellite Internet Will Enable AI in Everything
-satellite internet enable ai everything
-[Read more](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)
+### Sabalenka, Osaka & Gauff reach last 16 in Miami
+world number one aryna sabalenka reaches last miami open
+[Read more](https://www.bbc.com/sport/tennis/articles/c9dew105p6do)
 
-### Low-Cost Drone Add-Ons From China Let Anyone With a Credit Card Turn Toys Into Weapons of War
-lowcost drone addons china let anyone credit card turn toy weapon war chinese ecommerce giant like temu aliexpress sell drone accessory like used soldier
-[Read more](https://www.wired.com/story/drone-accessories-weapons-of-war/)
+### 'Mr Calm' Bellamy looks to Skopje after opening win
+wale captain ben davy says craig bellamy 's side made hard work
+[Read more](https://www.bbc.com/sport/football/articles/c3rn00ylyr0o)
 
-### DOGE’s Dodgy Numbers Employ a Tesla Technique
-u.s. gov. 's doge 's report on elon musk 's tesla technique
-[Read more](https://www.wired.com/story/doges-dodgy-numbers-employ-a-tesla-technique/)
+### England's Mansell wins maiden DP Tour title
+england 's richard mansell won his maiden dp world tour title at the weathershortened porsche singapore classic
+[Read more](https://www.bbc.com/sport/golf/articles/clyjeqg5rg5o)
 
-### Nvidia Bets Big on Synthetic Data
-nvidia acquires synthetic data startup gretel to bolster artificial intelligence training data
-[Read more](https://www.wired.com/story/nvidia-gretel-acquisition-synthetic-training-data/)
+### McCann retires as British MMA icon
+british mma icon molly mccann says the knocked door has opened on her retirement from mma following defeat by alexia thainara
+[Read more](https://www.bbc.com/sport/mixed-martial-arts/articles/cn89e7yzg49o)
 
-### 23 Best Vinyl Accessories (2025): Cleaning Gear, Mats, Displays, and More
-find the best vinyl accessory cleaning gear mat display record cleaner
-[Read more](https://www.wired.com/gallery/best-vinyl-accessories/)
+### England's Rhodes holds nerve to claim maiden LET victory
+england rhodes hold nerve claim maiden let victory mimi rhodes hold nerve claim first lady european tour victory
+[Read more](https://www.bbc.com/sport/golf/articles/c79803l7erpo)
 
-### Dyson Car+Boat Handheld Vacuum Review: Powerful and Compact
-dyson carboat handheld vacuum review powerful compact
-[Read more](https://www.wired.com/review/dyson-car-and-boat-handheld-vacuum/)
+### 'A larger than life star' - Foreman dies age 76
+larger life star foreman dy age bbcs mike bushell take u legacy
+[Read more](https://www.bbc.com/sport/boxing/videos/cy057zpy8dzo)
 
-### Google’s Pixel 9a Is $499 and Undercuts the iPhone 16e
-google pixel undercuts iphone e
-[Read more](https://www.wired.com/story/google-pixel-9a/)
+### 'The greatest vaulter the world has ever seen!' - Duplantis retains world indoor title
+greece 's emmanouil karalis retains pole vault world title at world indoor athletics championship
+[Read more](https://www.bbc.com/sport/athletics/videos/c0l1ye26n7po)
 
-### Aqara U50 Smart Lock Review (2025): Affordable Until the Hub
-aqara u smart lock review
-[Read more](https://www.wired.com/review/aqara-u50-smart-lock/)
+### Everton's Madsen gets surprise proposal after WSL win
+everton forward rikke madsen gets proposed following victory in women 's super league
+[Read more](https://www.bbc.com/sport/videos/c4ge6g3mk72o)
 
-### JBL Flip 7 Review: Party Time Refined
-jbl flip review party time refined flip add new feature
-[Read more](https://www.wired.com/review/jbl-flip-7-review/)
+### Bloodgate - Ross Kemp investigates rugby's biggest scandal
+ross kemp investigates rugby 's biggest scandal , a blood capsule that unleashed a chain of events that shook rugby 's core
+[Read more](https://www.bbc.com/sport/rugby-union/videos/c5y9ezqlddwo)
 
-### Synchron’s Brain-Computer Interface Now Has Nvidia’s AI
-nvidias ai company partnered with nvidia to develop cognitive ai that will allow people with severe physical disability natural interaction world around
-[Read more](https://www.wired.com/story/synchrons-brain-computer-interface-now-has-nvidias-ai/)
+### James nets Wales' opening 2026 World Cup qualifying goal
+james net wale opening world cup qualifying goal
+[Read more](https://www.bbc.com/sport/football/videos/c8j0njzrxymo)
 
-### 8 Best Lighted Makeup Mirrors (2025), Tested and Reviewed
-best lighted makeup mirror tested reviewed
-[Read more](https://www.wired.com/gallery/best-lighted-makeup-mirrors/)
+### 'If Big George hit you, you stayed hit' - Foreman obituary
+big george hit stayed hit foreman obituary george foreman go one part holy trinity heavyweight boxer muhammad ali
+[Read more](https://www.bbc.com/sport/boxing/articles/c39veyw9lgeo)
+
+### The 'pretty special' 17-year-old out to dash Scotland dreams
+scotland take hard-earned lead in second leg against greece
+[Read more](https://www.bbc.com/sport/football/articles/cjw2xxq9yy1o)
+
+### A win & a ring - Madsen enjoys 'surprise twist' on Everton comeback
+everton forward rikke madsen enjoys surprise twist
+[Read more](https://www.bbc.com/sport/football/articles/c4ge613r7rlo)
+
+### Kohli and Salt lead RCB to victory in IPL opener
+kohli and salt lead rcb to victory in ipl opener virat kohli and phil salt opener stand help royal challenger bengaluru beat kolkata knight rider
+[Read more](https://www.bbc.com/sport/cricket/articles/c0mw7ey2d3ko)
+
+### Scotland triumph in another thriller against Wales
+scotland edged another nail-biting encounter to kickstart women 's six nation campaign
+[Read more](https://www.bbc.com/sport/rugby-union/articles/c5yx4n0rle2o)
+
+### Ireland want to be more than 'noble losers' - Bemand
+ireland head coach scott bemand says side want to make good fist
+[Read more](https://www.bbc.com/sport/articles/cr529yd681no)
+
+### Van der Poel wins thrilling Milan-San Remo
+van der poel won thrilling milansan remo oneday classic second time
+[Read more](https://www.bbc.com/sport/cycling/articles/c93n4zpklexo)
+
+### Icon Dhoni gears up for 18th IPL at age of 43
+dhoni gears up for july ipl swansong
+[Read more](https://www.bbc.com/news/articles/c5y2z448e8xo)
+
+### Leeds edge past champions Wigan in gripping contest
+leeds edge past champion wigan in gripping contest
+[Read more](https://www.bbc.com/sport/rugby-league/articles/c789km79lklo)
+
+### Bates hat-trick as Bristol beat Exeter in 14-try thriller
+bates hattrick bristol beat exeter try thriller bath top premiership thrilling win exeter chief ashton gate game
+[Read more](https://www.bbc.com/sport/rugby-union/articles/cdelw1432x3o)
+
+### Pulse upset champions Lightning for two wins from two
+london pulse upset champion lightning two win two loughborough pulse make two win two start new netball super league season
+[Read more](https://www.bbc.com/sport/netball/articles/c9vy4d2rez7o)
+
+### McCann's rollercoaster UFC career in pictures
+molly mccanns rollercoaster ufc career picture
+[Read more](https://www.bbc.com/sport/mixed-martial-arts/articles/cd7e93q9qgjo)
+
+### 'My parents didn't want me because I was a girl'
+the first indian woman to fight in ufc say parent didnt want girl
+[Read more](https://www.bbc.com/sport/mixed-martial-arts/articles/cp8lr0p6d0ro)
+
+### France survive red card to beat Ireland in Six Nations opener
+france begin women 's six nation win over ireland despite red card
+[Read more](https://www.bbc.com/sport/articles/c4g0vv77vdyo)
+
+### Rangers hit five past Hibs to retain SWPL Cup
+ranger hit five past hibernian to retain swpl cup
+[Read more](https://www.bbc.com/sport/football/articles/cp8lx69y670o)
+
+### Anning wins historic world indoor 400m gold for GB
+great britain 's amber anning wins world indoor gold
+[Read more](https://www.bbc.com/sport/athletics/articles/cd92wp3z0gpo)
+
+### Benson inspires stunning Quins comeback against Saracens
+saracen halftime substitute jamie benson inspires secondhalf comeback as harlequin stun saracen
+[Read more](https://www.bbc.com/sport/rugby-union/articles/cdxqk1ez3d5o)
+
+### Benetton beat Edinburgh with last-minute try
+benetton beat edinburgh last minute try snatch threepoint victory
+[Read more](https://www.bbc.com/sport/rugby-union/articles/cx2gd9q0n80o)
+
+### Ospreys defeat Connacht in 12-try URC thriller
+osprey beat connacht to boost hopes of a united rugby championship playoff place
+[Read more](https://www.bbc.com/sport/rugby-union/articles/c39ve0w3wx0o)
+
+### Tomkins leads Catalans to comfortable win at Castleford
+sam tomkins leads catalan dragon to comfortable win over castleford
+[Read more](https://www.bbc.com/sport/rugby-league/articles/c7984l81737o)
+
+### Wales indiscipline let Scotland into the game - pundit reaction
+bbc sport pundit reaction to scotland womens six nation game
+[Read more](https://www.bbc.com/sport/rugby-union/videos/c5y0ryl257no)
+
+### 'He's gone and done it again!' - Ingebrigtsen wins first indoor world title
+norway 's jakob ingebrigtsen overtakes ethiopia 's berihu aregawi to win first indoor world title
+[Read more](https://www.bbc.com/sport/athletics/videos/czje8w23yvwo)
+
+### 'It's been a whirlwind!' - Wassell on tumour recovery and World Cup hopes
+whirlwind wassell tumour recovery world cup hope scotland
+[Read more](https://www.bbc.com/sport/rugby-union/videos/crlx7g0zw1do)
+
+### Forest hold off Stoke fight back to win National League Cup
+nottingham forest held stoke city to a goalless draw in the women 's national league cup final .
+[Read more](https://www.bbc.com/sport/football/videos/c05mq32j12qo)
+
+### Hamilton, Button and Jordan take part in 2010 F1 Pub Quiz
+bbc sport great british f pub quiz aired ahead
+[Read more](https://www.bbc.com/sport/formula1/videos/cp3y0gvy0q9o)
+
+### England begin bid for legacy-defining year
+england begin bid for legacy ; italy start women 's six nation title defence
+[Read more](https://www.bbc.com/sport/rugby-union/articles/cn8rng8g8ppo)
+
+### Clarke on Scotland tactics against Greece, Christie, Hirst & Karetsas
+bbc scotland's ryan christie and scotland's christie hirst talk tactic bbc scotland's clarke talk tactic
+[Read more](https://www.bbc.com/sport/football/articles/cdxq56pwkzvo)
+
+### 'Mr Calm' Bellamy looks to Skopje after opening win
+wale captain ben davy says craig bellamy 's side made hard work
+[Read more](https://www.bbc.com/sport/football/articles/c3rn00ylyr0o)
+
+### Ireland didn't punish France red card - Costigan
+ireland did n't punish france for red card costigan says
+[Read more](https://www.bbc.com/sport/rugby-union/articles/cq5z65z1d0jo)
+
+### Five talking points from Tuchel's first game as England boss
+five talking points about england 's first game against albania
+[Read more](https://www.bbc.com/sport/football/articles/cjd342215v0o)
+
+### George Foreman's life in pictures
+american boxing heavyweight legend george foreman died aged
+[Read more](https://www.bbc.com/news/articles/cd659xxn793o)
+
+### The Rumble in the Jungle, by those who witnessed it
+bbc sport speaks witnessed epic heavyweight title fight muhammad ali george foreman zaire
+[Read more](https://www.bbc.co.uk/sport/boxing/29796214)
+
+### 'He does everything right' - the remarkable rise of Lewis-Skelly
+october myles lewisskelly starting arsenal u mk don efl trophy less six month later england goalscorer bbc sport chart rise
+[Read more](https://www.bbc.com/sport/football/articles/cgq95n78xp3o)
+
+### Why are Chelsea stockpiling so many young players?
+chelsea stockpiling many young player
+[Read more](https://www.bbc.com/sport/football/articles/c0jgyv5w788o)
+
+### The flamboyant deal-maker of Formula 1 - Eddie Jordan obituary
+eddie jordan obituary obituary eddie jordan rogue
+[Read more](https://www.bbc.com/sport/formula1/articles/c4gp474y92vo)
+
+### 'I signed Barcelona deal - then had a stroke at 24'
+england striker ellie roebuck has signed a new deal with barcelona
+[Read more](https://www.bbc.com/sport/football/articles/c87d7rn1ejvo)
+
+### A cash-filled briefcase, a missing shield and the beating of Australia
+great britain trailblazer overcame remarkable odds to get test series
+[Read more](https://www.bbc.com/sport/rugby-league/articles/c4g0d4n728qo)
+
+### I was effectively homeless after getting sacked - Stoney
+former england captain casey stoney says sacking san diego wave left him effectively homeless
+[Read more](https://www.bbc.com/sport/football/articles/c62z76ewgn0o)
+
+### 'Like a Jason Bourne movie' - how Afghan women's team fled Taliban
+afghan women 's team flees taliban
+[Read more](https://www.bbc.com/sport/cricket/articles/cx2k1z7zg8do)
+
+### 'She was like a tsunami' - the unstoppable rise of Bonmati
+aitana bonmati stood rest stood something
+[Read more](https://www.bbc.co.uk/sport/football/67691132)
+
+### 'I gave everything to boxing and still have nothing'
+heather hardy tells bbc sport how she adapts to life outside boxing
+[Read more](https://www.bbc.com/sport/boxing/articles/cwyl3y7yyx1o)
+
+### How a Facebook advert changed a life and the look of a sport
+phoebe schecter 's advert for facebook changed her life .
+[Read more](https://www.bbc.com/sport/american-football/articles/c5yk93jkj4xo)
 
 
