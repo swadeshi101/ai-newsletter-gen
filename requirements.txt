@@ -1,0 +1,13 @@
+numpy
+pandas
+requests
+beautifulsoup4
+feedparser
+nltk
+spacy
+scikit-learn
+markdown
+jinja2
+transformers
+torch
+sentencepiece
