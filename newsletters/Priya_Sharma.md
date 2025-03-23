@@ -1,4 +1,4 @@
-# Personalized Newsletter for Priya Sharma1
+# Personalized Newsletter for Priya Sharma
 
 ## Top Highlights
 - **What are proof-of-reserves audits, and how do they work?**: This article explores proof of reserves audit role crypto evolution robust model ensuring exchange solvency
